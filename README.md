@@ -9,7 +9,7 @@
 </div>
 
 
-- 🔭 Estou trabalhando no momento em um servidor de MTA (linguagem LUA)
+- 🔭 Atualmente Criando um Jogo
 - 🌱 No momento estou aprendendo C# & Python
 - ⚡ Fato curioso: Ja mexi com modelagem,design entre diversas coisas
 
